@@ -1,0 +1,8 @@
+{
+    "name"              :"NewWorld",
+    "description"       :"My first plugin",
+    "namespace"         :"NewWorld",
+    "author"            :"FKauert",
+    "type"              :"template",
+    "serviceProvider"   :"NewWorld\\providers\\NewWorldServiceProvider"
+}
